@@ -1,0 +1,26 @@
+{
+  "title": "Platform Features",
+  "description": "Discover what makes our platform unique",
+  "features": [
+    {
+      "title": "Analytics Dashboard",
+      "description": "Real-time insights into your business performance",
+      "icon": "📊"
+    },
+    {
+      "title": "Team Collaboration",
+      "description": "Work together seamlessly with your team",
+      "icon": "👥"
+    },
+    {
+      "title": "Automated Workflows",
+      "description": "Save time with intelligent automation",
+      "icon": "⚡"
+    },
+    {
+      "title": "Advanced Security",
+      "description": "Enterprise-grade security for your data",
+      "icon": "🔒"
+    }
+  ]
+}

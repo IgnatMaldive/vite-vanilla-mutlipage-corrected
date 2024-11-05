@@ -1,0 +1,65 @@
+<content>{
+  "title": "Account Settings",
+  "sections": [
+    {
+      "title": "Profile Settings",
+      "items": [
+        {
+          "label": "Account Name",
+          "type": "text",
+          "value": "John Doe"
+        },
+        {
+          "label": "Email",
+          "type": "email",
+          "value": "john@example.com"
+        },
+        {
+          "label": "Time Zone",
+          "type": "select",
+          "value": "UTC-5"
+        }
+      ]
+    },
+    {
+      "title": "Connected Accounts",
+      "platforms": [
+        {
+          "name": "Twitter",
+          "connected": true,
+          "lastSync": "2024-02-10T15:30:00Z"
+        },
+        {
+          "name": "Facebook",
+          "connected": true,
+          "lastSync": "2024-02-10T15:30:00Z"
+        },
+        {
+          "name": "Instagram",
+          "connected": true,
+          "lastSync": "2024-02-10T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Notifications",
+      "preferences": [
+        {
+          "type": "Post Performance",
+          "email": true,
+          "push": true
+        },
+        {
+          "type": "Mentions",
+          "email": true,
+          "push": true
+        },
+        {
+          "type": "Analytics Reports",
+          "email": true,
+          "push": false
+        }
+      ]
+    }
+  ]
+}</content>
